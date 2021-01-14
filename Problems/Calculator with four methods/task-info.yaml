@@ -1,0 +1,26 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class SimpleCalculator {
+        // Implement your methods here
+        public static void subtractTwoNumbers...
+
+
+        public static void sumTwoNumbers...
+
+
+        public static void divideTwoNumbers...
+
+
+        public static void multiplyTwoNumbers...
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10576
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10576">JetBrains
+    Academy</a></html>
+  time: Thu, 14 Jan 2021 03:28:51 UTC
+record: -1
